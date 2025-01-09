@@ -217,7 +217,7 @@ return { -- LSP Configuration & Plugins
       bashls = {},
       graphql = {},
       cssls = {},
-      ltex = {},
+      --  ltex = {},
       texlab = {},
     }
 
