@@ -110,6 +110,14 @@ alias pacrs='sudo pacman -Rs' # Remove the package required with dependencies
 alias pacrns='sudo pacman -Rns' # Remove the package required with dependencies,conifg also
 alias unlock='sudo rm /var/lib/pacman/db.lck' #Remove Pacman Lock
 
+#cd Commands
+alias ..='cd ..'
+alias ...='cd ../..'
+alias ....='cd ../../..'
+alias .....='cd ../../../..'
+alias ......='cd ../../../../..'
+alias .......='cd ../../../../../..'
+
 # Git Commands
 alias gi='git init'
 alias gs='git status'
